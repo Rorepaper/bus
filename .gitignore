@@ -1,0 +1,9 @@
+node_modules/
+# React Native build artifacts
+android/build/
+android/app/build/
+ios/build/
+ios/Pods/
+# Temporary files
+*.log
+.DS_Store

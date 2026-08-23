@@ -5,7 +5,10 @@
     "owner": "rorepaper",
     "repo": "bus"
   },
-  "ios": {},
+  "ios": {
+    "path": "ios",
+    "scheme": "TempRN"
+  },
   "flutter": {
     "watch": {}
   },

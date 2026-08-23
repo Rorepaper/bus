@@ -1,0 +1,15 @@
+{
+  "project": "bus",
+  "platform": "ios",
+  "github": {
+    "owner": "rorepaper",
+    "repo": "bus"
+  },
+  "ios": {},
+  "flutter": {
+    "watch": {}
+  },
+  "reactNative": {},
+  "kmp": {},
+  "mobai": {}
+}

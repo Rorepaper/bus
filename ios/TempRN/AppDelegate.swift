@@ -24,7 +24,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     window = UIWindow(frame: UIScreen.main.bounds)
 
     factory.startReactNative(
-      withModuleName: "TempRN",
+      withModuleName: "bus",
       in: window,
       launchOptions: launchOptions
     )

@@ -6,8 +6,7 @@
     "repo": "bus"
   },
   "ios": {
-    "path": "ios",
-    "scheme": "TempRN"
+    "path": "ios"
   },
   "flutter": {
     "watch": {}

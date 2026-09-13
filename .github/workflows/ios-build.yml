@@ -17,12 +17,12 @@ on:
         description: 'Path to iOS project (e.g., "ios" for React Native)'
         required: false
         type: string
-        default: 'ios'
+        default: '.'
       scheme:
         description: 'Xcode scheme to build (auto-detected if empty)'
         required: false
         type: string
-        default: 'TempRN'
+        default: ''
       use_signing:
         description: 'Enable code signing (requires secrets to be configured)'
         required: false
